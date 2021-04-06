@@ -1,0 +1,13 @@
+.ind_header {
+  color: black;
+}
+
+body {
+  width: 100vw;
+  background-image: url("../images/MegaTron.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ind_header:hover {
+  text-decoration: none;
+}

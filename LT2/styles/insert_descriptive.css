@@ -1,0 +1,19 @@
+.tag {
+  text-align: center;
+  border: 3px solid violet;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 10px;
+  max-width: 200px;
+  margin: 5px;
+  font-size: 18px;
+}
+
+.tag:hover {
+  /* background-color: aqua; */
+  box-shadow: 5px 5px 10px violet;
+}
+
+label {
+  margin-right: 5px;
+}
